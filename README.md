@@ -3,19 +3,19 @@
 Sistema integrado para gerenciamento de desempenho escolar.
 
 ## Dados
-+ Escola
+1. Escola
 * Nome da escola
 * Endereço
 * Telefone
 * E-mail
 
-+ Professores
+2. Professores
 * Nome
 * Telefone
 * E-mail
 * Graduação
 
-+ Alunos
+3. Alunos
 * Nome
 * Endereço
 * Filiação
@@ -23,7 +23,7 @@ Sistema integrado para gerenciamento de desempenho escolar.
 * Foto
 * Data de matrícula
 
-+ Turmas
+4. Turmas
 
-+ Disciplinas
+5. Disciplinas
 
